@@ -72,6 +72,11 @@ text-decoration: underline;
   width: 40%;
   margin: 40px auto 60px;
 }
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
 .top-cloud {
   position: absolute;
   right: 300px;
@@ -97,6 +102,8 @@ text-decoration: underline;
 }
 .cooking-description {
   clear: right;
+}
+
 }
 .btn {
   background: #11cdd4;
